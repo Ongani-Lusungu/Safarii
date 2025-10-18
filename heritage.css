@@ -1,0 +1,26 @@
+* {
+/*background-color: grey;*/
+}
+h1 {
+  text-align: center;
+  color: #fff;
+}
+ul {
+  list-style: none;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+}
+body {
+  background-image: url(forest.png);
+  height: 400vh;
+  width: 120%;
+  background-size: cover;
+  background-position: center;
+  opacity: 100%;
+  margin-left: 10px;
+  text-align: left;
+  margin-top: 15px;
+  letter-spacing: 0.5px;
+  margin-bottom: 2px;
+  }

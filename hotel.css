@@ -1,0 +1,24 @@
+
+body {
+  background-image: url(house.png);
+  height: 150vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 100%;
+  margin-left: 60px;
+  text-align: left;
+  margin-top: 50px;
+  letter-spacing: 1px;
+  line-height: 6px;
+  margin-bottom: 2px;
+  padding-top: 50px;
+}
+
+#background {
+  background-image: url(me_n_mine.jpg);
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
